@@ -1,7 +1,6 @@
 ### Olá! Everton Leonel aqui 👾
 -  Vain illustrator
 </br>
-(https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif")
 
 ![Everton GitHub Stats](https://github-readme-stats.vercel.app/api?username=evertonleonel&show_icons=true&theme=dracula&count_private=true)
 
