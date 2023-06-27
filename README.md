@@ -1,5 +1,6 @@
 ### Olá! Everton Leonel aqui 👾
 -  Vain illustrator
+-  Buscando a fluência em JS por pura vaidade ;-;
 </br>
 
 ![Everton GitHub Stats](https://github-readme-stats.vercel.app/api?username=evertonleonel&show_icons=true&theme=dracula&count_private=true)
