@@ -1,9 +1,7 @@
-### 👾
+###
 -  Vain illustrator
 -  Frontend Developer
 </br>
-
-![Everton GitHub Stats](https://github-readme-stats.vercel.app/api?username=evertonleonel&show_icons=true&theme=tokyonight&count_private=true)
 
 Stacks
 
