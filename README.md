@@ -1,11 +1,11 @@
-### Olá! Everton Leonel aqui 👾
+### 👾
 -  Vain illustrator
--  Buscando a fluência em JS por pura vaidade ;-;
+-  Frontend Developer
 </br>
 
 ![Everton GitHub Stats](https://github-readme-stats.vercel.app/api?username=evertonleonel&show_icons=true&theme=tokyonight&count_private=true)
 
-Tecnologias que sempre estou estudando
+Stacks
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
