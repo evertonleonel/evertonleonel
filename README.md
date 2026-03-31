@@ -1,6 +1,6 @@
 ###
 -  Vain illustrator
--  Frontend Developer
+-  Frontendmancer
 </br>
 
 Stacks
